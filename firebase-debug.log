@@ -1,0 +1,25 @@
+[debug] [2020-12-08T21:38:22.565Z] ----------------------------------------------------------------------
+[debug] [2020-12-08T21:38:22.567Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Evyat\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-12-08T21:38:22.567Z] CLI Version:   8.18.0
+[debug] [2020-12-08T21:38:22.567Z] Platform:      win32
+[debug] [2020-12-08T21:38:22.567Z] Node Version:  v14.2.0
+[debug] [2020-12-08T21:38:22.568Z] Time:          Tue Dec 08 2020 23:38:22 GMT+0200 (שעון ישראל (חורף))
+[debug] [2020-12-08T21:38:22.569Z] ----------------------------------------------------------------------
+[debug] [2020-12-08T21:38:22.569Z] 
+[debug] [2020-12-08T21:38:22.574Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-12-08T21:38:22.574Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Evyat\home\Worked-Projects\whatsapp-react
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
